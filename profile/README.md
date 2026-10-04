@@ -105,12 +105,12 @@ whole team to open in a browser.
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/scale-dark-1x.webp" />
-        <img src="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/scale-light-1x.webp" alt="Scaling a deployment, with what will change." />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/yaml-dark-1x.webp" />
+        <img src="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/yaml-light-1x.webp" alt="A change to a ConfigMap's YAML, checked by the cluster and shown before it's saved." />
       </picture>
       <h3>Changes, safely</h3>
-      <p>Scale, restart, edit or drain, with permission checks first, the kubectl command shown,
-      and undo.</p>
+      <p>Edits checked by the cluster and shown as a diff before they're saved, permissions
+      checked first, the kubectl command for every change, and undo.</p>
     </td>
   </tr>
 </table>
