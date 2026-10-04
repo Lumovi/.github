@@ -67,6 +67,9 @@ whole team to open in a browser.
       colors.</p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <picture>
@@ -87,6 +90,9 @@ whole team to open in a browser.
       first.</p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <picture>
