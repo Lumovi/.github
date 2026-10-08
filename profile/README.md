@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumovi/.github/main/profile/images/banner-dark.png" />
-  <img src="https://raw.githubusercontent.com/Lumovi/.github/main/profile/images/banner-light.png" alt="Lumovi. Your clusters, at a glance. A beautiful, fast Kubernetes dashboard, on your desktop or in your cluster." />
+  <img src="https://raw.githubusercontent.com/Lumovi/.github/main/profile/images/banner-light.png" alt="Lumovi. Your clusters, at a glance. A calm, fast Kubernetes dashboard, on your desktop or in your cluster." />
 </picture>
 
 <p align="center">
