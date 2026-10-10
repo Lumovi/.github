@@ -123,7 +123,7 @@ whole team to open in a browser.
   [adding a tool](https://github.com/Lumovi/Lumovi/blob/main/CONTRIBUTING.md#adding-a-tool).
 - **Found a bug, or have an idea?** [Open an issue](https://github.com/Lumovi/Lumovi/issues/new/choose).
 - **Like it?** Star [Lumovi](https://github.com/Lumovi/Lumovi), or
-  [sponsor its development](https://github.com/sponsors/kotapeter).
+  [sponsor its development](https://github.com/sponsors/Lumovi).
 
 <sub>Lumovi is open source under the Apache 2.0 license. Kubernetes is a registered trademark of
 the Linux Foundation.</sub>
