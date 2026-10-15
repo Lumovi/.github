@@ -85,7 +85,7 @@ whole team to open in a browser.
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/plugin-dark-1x.webp" />
         <img src="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/plugin-light-1x.webp" alt="Flux's plugin page: everything Flux runs in one list, what's failing first." />
       </picture>
-      <h3>Every tool you run</h3>
+      <h3>The tools you run</h3>
       <p>A page for each: Argo CD, Flux, cert-manager, Karpenter and 28 more, with what's failing
       first.</p>
     </td>
